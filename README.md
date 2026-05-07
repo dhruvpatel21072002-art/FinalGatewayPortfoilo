@@ -166,7 +166,6 @@ This project performs add, change, and delete operations using sequential file m
 ✅ Completed  
 [SEQ3000 Repo](https://github.com/dhruvpatel21072002-art/SEQ3000)
 
-<img src="assets/SEQ3000.png" width="180"/>
 
 🔙 [Back to TOC](#-table-of-contents)
 
